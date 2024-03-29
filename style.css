@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.loginform{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(88, 90, 88);
+    filter: blur(1.5);
+    position: fixed;
+    margin-left: 10%;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px 0px black;
+}
+h2{
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+label{
+    color: white;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    margin-left: 10px;
+}
+.text{
+    margin-left: 12px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.email{
+    margin-left: 15px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.password{
+    margin-left: 27px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.button{
+    width: 120px;
+    height: 50px;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(0, 89, 255);
+    margin-left: 120px;
+    margin-top: 30px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+
